@@ -1,0 +1,8 @@
+body {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+canvas {
+    border: 1px solid #0f0f0f;
+}
